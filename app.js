@@ -1,4 +1,4 @@
-//initial variables 
+//initial variables goes here 
 var express             = require("express"),
     app                 = express(),
     bodyParser          = require("body-parser"),
